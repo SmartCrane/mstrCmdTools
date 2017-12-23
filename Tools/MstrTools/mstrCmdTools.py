@@ -146,9 +146,3 @@ class MicrostrategyCmdTools:
                                             )
         print(cache_subscription_modify_script)
         return cache_subscription_modify_script
-
-    # def main(self):
-    #     prompts = [{'promptName': '月份', 'answer': '201709'}]
-    #     # print(self.update_report_cache('Dept_Fee_Cache_Update_Sub1', '财务管理报表调度', 'Administrator', prompts))
-    # if __name__ == '__main__':
-    #     main()
